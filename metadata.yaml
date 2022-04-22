@@ -1,0 +1,27 @@
+_repo: Bob-Taylor-s-Magazine-Vol-I-No-2-May-1905_67756
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-04-01'
+identifiers:
+  gutenberg: '67756'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065395462&view=1up&seq=129
+pgterms:marc905: 20200525033005various
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :The Taylor Publishing Co.,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bob Taylor's Magazine, Vol. I, No. 2, May 1905
+url: http://www.gutenberg.org/ebooks/67756
